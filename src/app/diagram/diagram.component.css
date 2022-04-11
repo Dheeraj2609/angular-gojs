@@ -1,0 +1,42 @@
+.cntr {
+    width: 100%;
+    display: flex;
+    justify-content: space-between
+}
+
+#myPaletteDiv {
+    width: 15%;
+    height: 80vh;
+    margin-right: 2px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#myDiagramDiv {
+    width: 85%;
+    height: 80vh;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#SaveButton {
+    margin: 10px 10px 10px 0;
+}
+
+#LoadButton {
+    margin: 10px 0;
+}
+
+#mySavedModel {
+    width: 100%; 
+    height: 50vh;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#SVGButton {
+    margin: 10px 0 0;
+}
